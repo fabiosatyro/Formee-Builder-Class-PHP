@@ -8,9 +8,9 @@ Just a simple PHP class to Build xHTML and CSS Form based on Formee Framework
 ### Install
 The first step to use it is to include the class file in your php page:
 
-`include("/path/formee.builder.class.php");`
+`include("class/formee.builder.class.php");`
 
-Replace the `/path/` with the path you used.
+Replace the `class/` with the path you used.
 
 ### Use
 #### Input Text
